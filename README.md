@@ -1,2 +1,13 @@
-# JAVA-LEARNING
-A structured repository to practice core Java concepts and Data Structures &amp; Algorithms in Java. Includes fundamentals (variables, loops, methods), OOP concepts (classes, inheritance, polymorphism, abstraction), Collections Framework, and solutions to GFG DSA 160 problems. Maintained as part of daily learning and consistency practice.
+# Java Learning
+
+This repository contains my daily practice of core Java concepts and
+Data Structures & Algorithms using Java.
+
+## Topics Covered
+- Java fundamentals (variables, loops, methods)
+- Object-Oriented Programming (OOP)
+- Java Collections Framework
+- DSA practice (GFG 160)
+
+## Purpose
+To build strong Java fundamentals and problem-solving skills for internships.
